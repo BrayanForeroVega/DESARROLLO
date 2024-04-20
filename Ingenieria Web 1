@@ -1,0 +1,87 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Accesos dinamicos</title>
+    <style>
+   
+    </style>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+   
+    
+    <script src="./funciones.js"></script>
+    
+    <h1 class="titulo"><center>ACCESOS</center></h1>
+    <div class ="contenedor">
+        <div class ="tarjeta">
+            <h2 class = "titulo">Facebook</h2>
+            <div class ="cuerpo">
+                <img src="facebook.png" alt="muestra" width="200px">
+                <p>Publicaciones, memes, paginas.</p>
+                <div class="pie"><a href="http://facebook.com/" target="_blank">Abrir</a></div>
+            </div>
+            
+        </div>
+        <div class ="tarjeta">
+            <h2 class = "titulo">Instagram</h2>
+            <div class ="cuerpo">
+                <img src="instagram.png" alt="muestra" width="200px">
+                <p>Fotos, videos, reels, historias.</p>
+                <div class="pie"><a href="http://instagram.com/" target="_blank">Abrir</a></div>
+                
+            </div>
+            
+        </div>
+        
+        <div class ="tarjeta">
+            <h2 class = "titulo">X (Twitter)</h2>
+            <div class ="cuerpo">
+                <img src="X.png" alt="muestra" width="200px">
+                <p>Publicaciones, noticias, tocixidad.</p>
+                <div class="pie"><a href="http://twitter.com/" target="_blank">Abrir</a></div>
+                
+            </div>
+    </div>    
+    
+   
+    <div class ="contenedor">
+             
+        <div class ="tarjeta">
+            
+            <h2 class = "titulo">Twitch</h2>
+            <div class ="cuerpo">
+                <img src="twitch.png" alt="muestra" width="200px">
+                <p>Publicaciones, memes, paginas.</p>
+                <div class="pie"><a href="https://www.twitch.tv/" target="_blank">Abrir</a></div>
+            </div>
+            
+        </div>
+        <div class ="tarjeta">
+            <h2 class = "titulo">Youtube Live</h2>
+            <div class ="cuerpo">
+                <img src="youtubelive.png" alt="muestra" width="200px">
+                <p>Fotos, videos, reels, historias.</p>
+                <div class="pie"><a href="https://www.youtube.com/channel/UC4R8DWoMoI7CAwX8_LjQHig" target="_blank">Abrir</a></div>
+                
+            </div>
+            
+        </div>
+   
+        
+        <div class ="tarjeta">
+            <h2 class = "titulo">stardeos</h2>
+            <div class ="cuerpo">
+                <img src="stardeos.png" alt="muestra" width="270px" >
+            
+                <p>Publicaciones, videos, novedad.</p>
+              
+                <div class="pie"><a href="https://stardeos.com/" target="_blank">Abrir</a></div>
+                
+            </div>
+        </div>
+    
+    </div>  
+</body>
+</html>
